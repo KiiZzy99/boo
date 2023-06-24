@@ -24,6 +24,10 @@ body{
     pointer-events: none;
 }
 
+input.email:focus{
+    border:none;
+    border-bottom: .5rem solid #363940;
+}
 
 .email{
     border: 1px solid #000;
@@ -82,7 +86,7 @@ body{
 }
 
 hr{
-    border: .06rem solid #040404;
+    border: .06rem solid #838282;
 }
 
 .arrow-box-white{
@@ -95,4 +99,18 @@ hr{
 
 .arrow-box-white i{
     font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.arrow-box-black{
+    border-radius: 4px;
+    background-color: #292828;
+    padding: 0px 1px;
+    height: 1.4rem;
+    color: #f5f3f3;
+}
+
+.arrow-box-black i{
+    font-size: 1.4rem;
+    font-weight: 500;
 }
