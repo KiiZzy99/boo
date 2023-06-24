@@ -8,6 +8,30 @@ body{
     margin: 6rem;
 }
 
+.icon-inner-input {
+    position: relative;
+}
+.icon-inner-input input {
+    padding-left: 35px !important; 
+}
+.icon-inner-input i {
+    position: absolute;
+    left: 8px; 
+    transform: rotate(-45deg);
+    top: -5px;
+    padding: 12px 12px;
+    pointer-events: none;
+}
+
+
 .email{
     border: 1px solid #000;
+    height: 35px;
+    box-sizing: border-box;
+    font-size: 0.8rem;
+}
+
+.btn_sign{
+    height: 35px;
+    font-size: 12px;
 }
