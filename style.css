@@ -114,3 +114,20 @@ hr{
     font-size: 1.4rem;
     font-weight: 500;
 }
+
+.per{
+    position: relative;
+}
+
+.per span{
+    position: absolute;
+    top: -.4rem;
+    color: #5e5e5e;
+    font-size: 0.55rem;
+    font-weight: 700;
+}
+
+.num-cent{
+    font-size: 1.3rem;
+    font-weight: 900;
+}
