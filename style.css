@@ -48,6 +48,15 @@ body{
     border-radius: 1rem;
 }
 
+.card h6{
+    font-size: .6rem;
+    text-transform: uppercase;
+}
+
+.card h5{
+    font-size: 1.1rem;
+}
+
 .plan-card2 h6{
     color: #686869 !important;
 }
