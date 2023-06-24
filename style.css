@@ -54,11 +54,16 @@ body{
 }
 
 .card h5{
-    font-size: 1.1rem;
+    font-size: 1rem;
+    font-weight: 700;
 }
 
 .card h6{
     color: #686869 !important;
+}
+
+.card-text{
+    font-size: .7rem;
 }
 
 .plan-card1 {
@@ -78,4 +83,16 @@ body{
 
 hr{
     border: .06rem solid #040404;
+}
+
+.arrow-box-white{
+    border-radius: 4px;
+    background-color: #F6F9FF;
+    padding: 0px 1px;
+    height: 1.4rem;
+    color: #000;
+}
+
+.arrow-box-white i{
+    font-size: 1.4rem;
 }
