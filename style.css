@@ -7,3 +7,7 @@ body{
     justify-content: center;
     margin: 6rem;
 }
+
+.email{
+    border: 1px solid #000;
+}
