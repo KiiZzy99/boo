@@ -8,6 +8,7 @@ body{
     margin: 6rem;
 }
 
+/* banner-section */
 .icon-inner-input {
     position: relative;
 }
@@ -36,9 +37,34 @@ body{
     font-size: 12px;
 }
 
+
+/* plan-section */
 .plans a{
     text-decoration: none;
     color: #000;
+}
+.card{
+    border: none;
+    border-radius: 1rem;
+}
+
+.plan-card2 h6{
+    color: #686869 !important;
+}
+
+.plan-card1 {
+    background: #4fc695;
+    
+}
+.plan-card2 {
+    background: #363940;
+    color: #F6F9FF;
+}
+.plan-card3 {
+    background: #CD9BFA;
+}
+.plan-card4 {
+    background: #FAFB92;
 }
 
 hr{
