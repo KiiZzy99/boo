@@ -138,7 +138,7 @@ hr{
 /* footer */
 
 .arrow-box-black-border{
-    border-radius: 4px;
+    border-radius: 3rem;
     border: 2px solid #292828;
     padding: 0px 1px;
     height: 1.65rem;
@@ -146,6 +146,14 @@ hr{
 }
 
 .arrow-box-black-border i{
+    padding: 0rem .16rem;
     font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.policy a{
+    text-decoration: none;
+    color: #000;
+    font-size: .73rem;
     font-weight: 500;
 }
