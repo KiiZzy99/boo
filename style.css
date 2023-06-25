@@ -134,3 +134,18 @@ hr{
     font-size: 1.3rem;
     font-weight: 900;
 }
+
+/* footer */
+
+.arrow-box-black-border{
+    border-radius: 4px;
+    border: 2px solid #292828;
+    padding: 0px 1px;
+    height: 1.65rem;
+    color: #292828;
+}
+
+.arrow-box-black-border i{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
